@@ -28,7 +28,6 @@ FEE_SATS: Fee for the consolidation transaction (default is 500 satoshis).
 Run the script to consolidate dust UTXOs:
 
 ```bash
-Copy code
 python consolidate_dust.py
 ```
 
